@@ -1,4 +1,3 @@
-Here's a README for your project "SIMPLE-ENCRYPTION-DECRIPTION-WITH-TKINTER":
 
 <a id="readme-top"></a>
 ![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/SIMPLE-ENCRYPTION-DECRIPTION-WITH-TKINTER)
